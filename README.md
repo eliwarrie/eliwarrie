@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eliwarrie
-- 👀 I’m interested in --> Internship & TeamWork, Open to learning!
-- 🌱 I’m currently learning --> C Programming Language, Python, JavaScript and HTML5
+- 👀 I’m open to --> Learning, Internship & TeamWork!
+- 🌱 I’m currently learning --> C Language, Python, JavaScript and HTML5 and CSS3
 - 💞️ I’m looking to collaborate on --> Frontend & Software Architecture Projects.
 - 📫 How to reach me --> Twitter: @eelitetech Gmail: eelitetech9@gmail.com
 
